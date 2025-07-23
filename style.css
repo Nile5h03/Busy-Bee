@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;800;900&display=swap');
-
 /* for whole documents */
 * {
     margin: 0;
@@ -22,8 +21,6 @@ body{
     background-color: rgb(7, 25, 37);
 }
 
-
-
 .container {
     display: flex;
     align-items: center;
@@ -36,7 +33,6 @@ body{
     border-radius: 20px;
     padding: 20px;
 }
-/* header */
 
 .container header {
     display: flex;
@@ -258,14 +254,11 @@ dropdown*/
   .dropdown:hover .dropdown-content {
     display: block;
   }
-  
+
   .dropdown:hover .dropbtn {
     background-color: white;
     color: yellowgreen;
   }
-
-
-
 /* Responsive */
 @media only screen and (max-width: 530px) {
     .container {
