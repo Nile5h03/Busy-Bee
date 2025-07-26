@@ -37,7 +37,7 @@ Inspired by the hardworking nature of bees, this app lets you add, filter, compl
 * JavaScript (DOM manipulation & event handling)
 
 
-  ## 📸 Screenshots
+## 📸 Screenshots
 
 _Add screenshots of your portfolio here if available (optional but recommended)._
 
