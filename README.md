@@ -1,5 +1,7 @@
-# 🐝 Busy Bee – Buzz Through Your Tasks!
+# 🐝 Busy Bee 
+>**Buzz Through Your Tasks!**
 
+## 🔍 About
 
 Busy Bee is a sleek, responsive, and beginner-friendly todo list web app that helps you manage tasks like a pro.
 
@@ -7,7 +9,7 @@ Inspired by the hardworking nature of bees, this app lets you add, filter, compl
 
 
 
-✨FEATURES:
+## ✨ Features
 
 
 📌 Add, edit, and delete tasks in real-time
@@ -26,13 +28,18 @@ Inspired by the hardworking nature of bees, this app lets you add, filter, compl
 
 
 
-🛠️ SKILLSET:
+##🛠️ SKILLSET:
 
 * HTML5
 
 * CSS3 (with responsive design)
 
 * JavaScript (DOM manipulation & event handling)
+
+
+  ## 📸 Screenshots
+
+_Add screenshots of your portfolio here if available (optional but recommended)._
 
 
 
