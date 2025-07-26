@@ -28,7 +28,7 @@ Inspired by the hardworking nature of bees, this app lets you add, filter, compl
 
 
 
-##🛠️ SKILLSET:
+##🛠️ SKILLSET
 
 * HTML5
 
