@@ -8,6 +8,14 @@ Busy Bee is a sleek, responsive, and beginner-friendly todo list web app that he
 Inspired by the hardworking nature of bees, this app lets you add, filter, complete, and delete tasks with ease — all in a minimal, intuitive interface.
 
 
+## 🛠️ SKILLSET
+
+* HTML5
+
+* CSS3 (with responsive design)
+
+* JavaScript (DOM manipulation & event handling)
+
 
 ## ✨ Features
 
@@ -28,13 +36,7 @@ Inspired by the hardworking nature of bees, this app lets you add, filter, compl
 
 
 
-## 🛠️ SKILLSET
 
-* HTML5
-
-* CSS3 (with responsive design)
-
-* JavaScript (DOM manipulation & event handling)
 
 
 ## 📸 Screenshots
